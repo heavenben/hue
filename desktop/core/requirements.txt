@@ -25,6 +25,7 @@ django-webpack-loader==0.5.0
 eventlet==0.24.1
 future==0.18.2
 greenlet==0.4.15
+gevent==20.9.0
 gunicorn==19.9.0
 jaeger-client==4.3.0
 jdcal==1.0.1
